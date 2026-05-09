@@ -23,8 +23,6 @@ The system detects whether a person is wearing a helmet or not from uploaded ima
 ## 🖥️ Detection in Streamlit
 
 - Upload any image (JPG/PNG) directly from your device
-- Displays **Original** and **Detection Result** side by side
-- Bounding boxes drawn around detected persons with class label and confidence score
 - **Safety status alerts:**
   - ✅ Green alert when helmet is detected
   - ⚠️ Red alert when no helmet is detected
