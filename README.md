@@ -38,10 +38,10 @@ The system detects whether a person is wearing a helmet or not from uploaded ima
 ## 📸 Demo
 
 ### App Interface
-![Demo](demo.jpeg)
+[Demo](demo.jpeg)
 
 ### Detection Result
-![Detection](detection.jpeg)
+[Detection](detection.jpeg)
 
 ---
 
