@@ -28,13 +28,6 @@ The system detects whether a person is wearing a helmet or not from uploaded ima
 
 ---
 
-## 📂 Project Structure
-
-```bash
-helmet-streamlit-app/
-│
-├── app.py
-├── best.pt
 ├── yolov5/
 ├── requirements.txt
 └── README.md
